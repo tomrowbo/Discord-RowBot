@@ -1,0 +1,2 @@
+To test the bot out - either create you're own bot using this code inserting your own bot token to code.
+Or feel free to invite my bot to your discord server. https://discordapp.com/api/oauth2/authorize?client_id=584147013717721090&permissions=67584&scope=bot
